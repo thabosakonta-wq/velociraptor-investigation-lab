@@ -1,0 +1,29 @@
+Velociraptor Investigation Report
+
+Host:
+WIN-WS01
+
+User:
+Administrator
+
+Findings:
+
+1. PowerShell execution observed
+2. External network connection identified
+3. Suspicious payload file discovered
+
+Risk Level:
+High
+
+MITRE ATT&CK Techniques:
+
+T1059.001 - PowerShell
+T1071 - Application Layer Protocol
+T1105 - Ingress Tool Transfer
+
+Recommendations:
+
+- Isolate endpoint
+- Investigate PowerShell command history
+- Review network traffic
+- Scan endpoint for malware

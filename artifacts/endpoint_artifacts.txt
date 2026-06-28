@@ -1,0 +1,18 @@
+Hostname: WIN-WS01
+
+User: Administrator
+
+Process:
+powershell.exe
+
+CommandLine:
+powershell.exe -enc SQBmACgA
+
+File:
+C:\Users\Administrator\AppData\Temp\payload.exe
+
+NetworkConnection:
+185.220.101.1
+
+Timestamp:
+2026-06-25 12:15:33
