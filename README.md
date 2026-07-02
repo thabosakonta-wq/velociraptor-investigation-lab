@@ -43,6 +43,24 @@ Documents findings, severity assessment, and recommended response actions.
 
 ---
 
+---
+
+## Screenshots
+
+### Process Investigation
+
+![Process Hunt](screenshots/process_hunt.png)
+
+### Network Investigation
+
+![Network Hunt](screenshots/network_hunt.png)
+
+### File Investigation
+
+![File Hunt](screenshots/file_hunt.png)
+
+---
+
 MITRE ATT&CK Coverage
 
 Technique| ATT&CK ID| Description
@@ -82,22 +100,6 @@ MITRE ATT&CK Mapping
 
 ---
 
-Screenshots
-
-Process Investigation
-
-"Process Investigation" (screenshots/process_hunt.png)
-
-Network Investigation
-
-"Network Investigation" (screenshots/network_hunt.png)
-
-File Investigation
-
-"File Investigation" (screenshots/file_hunt.png)
-
----
-
 Technologies Used
 
 - Velociraptor Concepts
@@ -125,7 +127,6 @@ Velociraptor-Investigation-Lab
 │   └── process_hunt.sh
 ├── reports
 │   ├── mitre_mapping.md
-│   └── velociraptor_investigation_report.txt
 ├── screenshots
 │   ├── file_hunt.png
 │   ├── network_hunt.png
