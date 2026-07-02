@@ -43,8 +43,6 @@ Documents findings, severity assessment, and recommended response actions.
 
 ---
 
----
-
 ## Screenshots
 
 ### Process Investigation
@@ -58,7 +56,6 @@ Documents findings, severity assessment, and recommended response actions.
 ### File Investigation
 
 ![File Hunt](screenshots/file_hunt.png)
-
 ---
 
 MITRE ATT&CK Coverage
