@@ -173,22 +173,20 @@ Learning Outcomes
 
 ---
 
-Author
+## Author
 
-Thabo Sakonta
+**Thabo Sakonta**
 
 Microsoft Certified Security Operations Analyst (SC-200)
 
 GitHub:
-
 https://github.com/thabosakonta-wq
 
 LinkedIn:
-
 https://www.linkedin.com/in/thabo-sakonta-377a3748
 
 ---
 
-License
+## License
 
 This project is intended for educational, research, and cybersecurity portfolio purposes.
