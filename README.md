@@ -19,6 +19,17 @@ The investigation focuses on:
 
 ---
 
+## Objectives
+
+- Demonstrate endpoint investigation using Velociraptor concepts.
+- Perform process, network, and file hunting.
+- Analyze endpoint artifacts.
+- Map findings to MITRE ATT&CK.
+- Produce professional DFIR investigation reports.
+- Demonstrate practical incident response skills.
+
+---
+
 Features
 
 Process Investigation
