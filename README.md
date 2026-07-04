@@ -143,6 +143,12 @@ Velociraptor-Investigation-Lab
 
 ---
 
+## Reports
+
+- Executive Summary
+- Velociraptor Investigation Report
+- MITRE ATT&CK Mapping
+
 Learning Outcomes
 
 - Digital Forensics
