@@ -69,12 +69,13 @@ Documents findings, severity assessment, and recommended response actions.
 ![File Hunt](screenshots/file_hunt.png)
 ---
 
-MITRE ATT&CK Coverage
+## MITRE ATT&CK Coverage
 
-Technique| ATT&CK ID| Description
-PowerShell| T1059.001| Execution
-Application Layer Protocol| T1071| Command and Control
-Ingress Tool Transfer| T1105| Command and Control
+| Technique | ATT&CK ID | Description |
+|-----------|-----------|-------------|
+| PowerShell | T1059.001 | Execution |
+| Application Layer Protocol | T1071 | Command and Control |
+| Ingress Tool Transfer | T1105 | Command and Control |
 
 ---
 
