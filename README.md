@@ -148,7 +148,7 @@ Velociraptor-Investigation-Lab
 - Velociraptor Investigation Report
 - MITRE ATT&CK Mapping
 
-Learning Outcomes
+## Learning Outcomes
 
 - Digital Forensics
 - Endpoint Investigation
