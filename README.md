@@ -30,7 +30,7 @@ The investigation focuses on:
 
 ---
 
-Features
+## Features
 
 Process Investigation
 
