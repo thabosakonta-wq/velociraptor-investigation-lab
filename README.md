@@ -161,6 +161,19 @@ Learning Outcomes
 
 ---
 
+## Future Enhancements
+
+- Velociraptor Live Collections
+- Windows Memory Analysis
+- Timeline Analysis
+- Microsoft Defender XDR Integration
+- Microsoft Sentinel Integration
+- Sigma Rule Correlation
+- Automated IOC Extraction
+- YARA Rule Integration
+
+---
+
 Author
 
 Thabo Sakonta
