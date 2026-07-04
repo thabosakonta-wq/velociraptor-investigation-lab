@@ -1,10 +1,10 @@
-Velociraptor Investigation Lab
+## Velociraptor Investigation Lab
 
 A Digital Forensics and Incident Response (DFIR) project demonstrating endpoint investigations using Velociraptor-style artifacts, threat hunting techniques, incident reporting, and MITRE ATT&CK mapping.
 
 ---
 
-Overview
+## Overview
 
 This lab simulates a Digital Forensics and Incident Response (DFIR) investigation where endpoint artifacts are collected and analyzed to identify suspicious activity on compromised systems.
 
@@ -79,7 +79,7 @@ Documents findings, severity assessment, and recommended response actions.
 
 ---
 
-Investigation Workflow
+## Investigation Workflow
 
 Endpoint Artifact Collection
 
@@ -109,7 +109,7 @@ MITRE ATT&CK Mapping
 
 ---
 
-Technologies Used
+## Technologies Used
 
 - Velociraptor Concepts
 - Digital Forensics
