@@ -124,8 +124,6 @@ Technologies Used
 
 ---
 
-Project Structure
-
 Velociraptor-Investigation-Lab
 ├── artifacts
 │   └── endpoint_artifacts.txt
@@ -136,12 +134,12 @@ Velociraptor-Investigation-Lab
 │   └── process_hunt.sh
 ├── reports
 │   ├── mitre_mapping.md
+│   └── velociraptor_investigation_report.txt
 ├── screenshots
-│   ├── file_hunt.png
+│   ├── process_hunt.png
 │   ├── network_hunt.png
-│   └── process_hunt.png
+│   └── file_hunt.png
 └── README.md
-
 ---
 
 ## Reports
